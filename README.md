@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋😁 ¡Hola!
 
-<!--
-**devmattiel20/devmattiel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Matthew Bettin, soy Analista y desarrollador de software, de Colombia. 
 
-Here are some ideas to get you started:
+## &#x20;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+Me apasiona crear interfaces modernas, atractivas y funcionales. Disfruto aprender nuevas tecnologías, construir proyectos y mejorar constantemente mis habilidades como desarrollador.
+
+Actualmente estoy enfocado en el desarrollo **Frontend**, creando aplicaciones y experiencias web con tecnologías modernas.
+
+---
+
