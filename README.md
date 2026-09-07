@@ -2,7 +2,6 @@
 
 Mi nombre es Matthew Bettin, soy Analista y desarrollador de software, de Colombia. 
 
-## &#x20;
 
 ## Sobre mí
 
